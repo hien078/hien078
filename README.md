@@ -1,4 +1,4 @@
-# Hi, I'm Hiển 👋
+# Hi, I'm Hiện 👋
 
 🎓 **Applied Mathematics** student at [USTH](https://usth.edu.vn/) (University of Science and Technology of Hanoi)  
 🔬 **AI / ML Researcher & Mathematical Software Engineer** — bridging rigorous mathematics and modern machine learning  
