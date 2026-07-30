@@ -1,35 +1,46 @@
 # Hi, I'm Hiển 👋
 
 🎓 **Applied Mathematics** student at [USTH](https://usth.edu.vn/) (University of Science and Technology of Hanoi)  
-🔬 Aspiring **AI Researcher** — bridging rigorous mathematics and modern machine learning  
-📐 Building knowledge from **first principles**: understand deeply, then implement
+🔬 **AI / ML Researcher & Mathematical Software Engineer** — bridging rigorous mathematics and modern machine learning  
+📐 Building knowledge from **first principles**: derive mathematically, code from scratch, and verify empirically.
 
 ---
 
-### 🧠 What I'm working on
+## 🌟 Highlighted Repositories
 
-- 📘 **[First Principles Mathematical Modeling](https://github.com/hien078/first-principles-math-modeling)** — A structured learning system covering Calculus (15 topics), Linear Algebra (10 topics), and 15 Mathematical Modeling topics, all built from first principles with AI/ML connections. 50+ Jupyter notebooks with LaTeX-rendered theory, proofs, and exercises.
+| Repository | Focus & Domain | Highlights |
+|---|---|---|
+| 🧮 **[applied-mathematics-foundation](https://github.com/hien078/applied-mathematics-foundation)** | **Applied Mathematics for AI & Data Science** | 8 Comprehensive Math Modules: Linear Algebra (10 topics), Calculus (15 topics), Optimization, Probability & Statistics, Information Theory, ODEs, Graph Theory, Numerical Methods. |
+| 📐 **[first-principles-math-modeling](https://github.com/hien078/first-principles-math-modeling)** | **First-Principles Mathematical Modeling** | Applied mathematical modeling: Dynamical Systems, SIR Epidemic Models, ODEs, Linear & Non-Linear Optimization, Game Theory, Simulation & Data-Driven Modeling. |
+| 🤖 **[Machine-Learning-from-scratch](https://github.com/hien078/Machine-Learning-from-scratch)** | **Machine Learning & Deep Learning from Scratch** | 17 Algorithms derived from first principles & implemented in pure NumPy & PyTorch: OLS, Ridge/Lasso, Decision Trees, Random Forest, SVM, PCA, GMM, CNN, LSTM, Transformer, VAE, + 37 Unit Tests (100% Passed). |
 
-### 🔭 Research interests
+---
 
-- Mathematical foundations of deep learning
-- Neural ODEs & dynamical systems in ML
-- Optimization theory (convex & non-convex)
-- Physics-Informed Neural Networks (PINNs)
-- Graph Neural Networks
+## 🔬 Research & Engineering Focus
 
-### 🛠️ Skills
+- **Mathematical Foundations of Deep Learning**: Convex & non-convex optimization, matrix calculus, spectral theory.
+- **Neural ODEs & Dynamical Systems**: Physics-Informed Neural Networks (PINNs), continuous-time models.
+- **First-Principles ML**: Building transparent, scalable ML algorithms from scratch without black-box abstractions.
+- **Information & Optimization Theory**: Variational inference, ELBO bounds, information geometry.
 
-| Domain | Tools |
-|--------|-------|
-| **Mathematics** | Real Analysis, Linear Algebra, Optimization, Probability, ODEs/PDEs, Numerical Methods |
-| **Programming** | Python, NumPy, SciPy, Pandas, PyTorch |
-| **Visualization** | Matplotlib, Plotly, Streamlit |
-| **Tools** | LaTeX, Git, Jupyter, Linux |
+---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien078&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+- **Languages & Frameworks:** `Python` `PyTorch` `NumPy` `SciPy` `Pandas` `scikit-learn`
+- **Math & Authoring:** `LaTeX` `KaTeX` `JupyterLab` `Matplotlib`
+- **DevOps & OS:** `Git` `GitHub CLI` `Linux (Bash)` `VS Code`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien078&show_icons=true&theme=nord&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hien078&layout=compact&theme=nord&hide_border=true)
+
+</div>
 
 ---
 
