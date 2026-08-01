@@ -6,13 +6,34 @@
 
 ---
 
-## 🌟 Highlighted Repositories
+## 🌟 Flagship Project
 
-| Repository | Focus & Domain | Highlights |
-|---|---|---|
-| 🧮 **[applied-mathematics-foundation](https://github.com/hien078/applied-mathematics-foundation)** | **Applied Mathematics for AI & Data Science** | 8 Comprehensive Math Modules: Linear Algebra (10 topics), Calculus (15 topics), Optimization, Probability & Statistics, Information Theory, ODEs, Graph Theory, Numerical Methods. |
-| 📐 **[first-principles-math-modeling](https://github.com/hien078/first-principles-math-modeling)** | **First-Principles Mathematical Modeling** | Applied mathematical modeling: Dynamical Systems, SIR Epidemic Models, ODEs, Linear & Non-Linear Optimization, Game Theory, Simulation & Data-Driven Modeling. |
-| 🤖 **[Machine-Learning-from-scratch](https://github.com/hien078/Machine-Learning-from-scratch)** | **Machine Learning & Deep Learning from Scratch** | 17 Algorithms derived from first principles & implemented in pure NumPy & PyTorch: OLS, Ridge/Lasso, Decision Trees, Random Forest, SVM, PCA, GMM, CNN, LSTM, Transformer, VAE, + 37 Unit Tests (100% Passed). |
+<table>
+<tr>
+<td width="120" align="center">
+
+### 🧮
+
+</td>
+<td>
+
+### [first-principles-math-modeling](https://github.com/hien078/first-principles-math-modeling)
+
+**A complete first-principles mathematical modeling & AI learning system.**
+
+[![Repository Audit](https://github.com/hien078/first-principles-math-modeling/actions/workflows/verify.yml/badge.svg)](https://github.com/hien078/first-principles-math-modeling/actions/workflows/verify.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hien078/first-principles-math-modeling/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-brightgreen.svg)](https://www.python.org/)
+[![Notebooks](https://img.shields.io/badge/Notebooks-121%2F121%20Executed-success.svg)](https://github.com/hien078/first-principles-math-modeling)
+
+- **16 Complete Modeling Topics**: Dynamical Systems, SIR Epidemics, Game Theory, Optimization (LP/IP/KKT), Graph Networks, Simulation, Decision Theory, SDEs & Diffusion Models
+- **50+ Foundations Notebooks**: Calculus (15 topics), Linear Algebra (10 topics), ODEs, Probability, Graph Theory
+- **Every model derives from first principles** → Intuition → Pure Math → Optimization → Real-World Application → AI Connection
+- **1-click Google Colab** execution on all 121 notebooks — no local setup needed
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -28,8 +49,8 @@
 ## 🛠️ Tech Stack & Tools
 
 - **Languages & Frameworks:** `Python` `PyTorch` `NumPy` `SciPy` `Pandas` `scikit-learn`
-- **Math & Authoring:** `LaTeX` `KaTeX` `JupyterLab` `Matplotlib`
-- **DevOps & OS:** `Git` `GitHub CLI` `Linux (Bash)` `VS Code`
+- **Math & Authoring:** `LaTeX` `KaTeX` `JupyterLab` `Matplotlib` `Plotly`
+- **DevOps & OS:** `Git` `GitHub Actions` `GitHub CLI` `Linux (Bash)` `VS Code`
 
 ---
 
