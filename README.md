@@ -1,7 +1,7 @@
 # Hi, I'm Hiện 👋
 
-🎓 **Applied Mathematics** student at [USTH](https://usth.edu.vn/) (University of Science and Technology of Hanoi)  
-🔬 **AI / ML Researcher & Mathematical Software Engineer** — bridging rigorous mathematics and modern machine learning  
+🎓 **Applied Mathematics** student at [USTH](https://usth.edu.vn/) (University of Science and Technology of Hanoi)
+🔬 **AI / ML Researcher & Mathematical Software Engineer** — bridging rigorous mathematics and modern machine learning
 📐 Building knowledge from **first principles**: derive mathematically, code from scratch, and verify empirically.
 
 ---
@@ -12,28 +12,32 @@
 <tr>
 <td width="120" align="center">
 
-### 🧮
+### 🤖
 
 </td>
 <td>
 
-### [first-principles-math-modeling](https://github.com/hien078/first-principles-math-modeling)
+### [Machine-Learning-from-scratch](https://github.com/hien078/Machine-Learning-from-scratch)
 
-**A complete first-principles mathematical modeling & AI learning system.**
+**22 ML & Deep Learning algorithms — derived by hand, implemented in pure NumPy & PyTorch, verified by tests.**
 
-[![Repository Audit](https://github.com/hien078/first-principles-math-modeling/actions/workflows/verify.yml/badge.svg)](https://github.com/hien078/first-principles-math-modeling/actions/workflows/verify.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hien078/first-principles-math-modeling/blob/main/LICENSE)
+[![CI](https://github.com/hien078/Machine-Learning-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/hien078/Machine-Learning-from-scratch/actions/workflows/ci.yml)
+[![Docs](https://img.shields.io/badge/docs-online-blue.svg?logo=materialformkdocs)](https://hien078.github.io/Machine-Learning-from-scratch/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hien078/Machine-Learning-from-scratch/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.12%2B-brightgreen.svg)](https://www.python.org/)
-[![Notebooks](https://img.shields.io/badge/Notebooks-121%2F121%20Executed-success.svg)](https://github.com/hien078/first-principles-math-modeling)
 
-- **16 Complete Modeling Topics**: Dynamical Systems, SIR Epidemics, Game Theory, Optimization (LP/IP/KKT), Graph Networks, Simulation, Decision Theory, SDEs & Diffusion Models
-- **50+ Foundations Notebooks**: Calculus (15 topics), Linear Algebra (10 topics), ODEs, Probability, Graph Theory
-- **Every model derives from first principles** → Intuition → Pure Math → Optimization → Real-World Application → AI Connection
-- **1-click Google Colab** execution on all 121 notebooks — no local setup needed
+- **22 topics in five phases**: OLS → SVM → Random Forest → CNN → LSTM → Transformer → VAE/Diffusion → RL → GNN → LLM engineering (BPE/LoRA/DPO) → SSL
+- Every topic = **theory.md derivation** + **from-scratch notebook** + **exercises**, backed by an installable library with **65 unit tests, 85% coverage floor, and CI-executed notebooks**
+- 📖 **Read it as a website:** [hien078.github.io/Machine-Learning-from-scratch](https://hien078.github.io/Machine-Learning-from-scratch/)
 
 </td>
 </tr>
 </table>
+
+**The rest of the first-principles trilogy:**
+
+- 🧮 [applied-mathematics-foundation](https://github.com/hien078/applied-mathematics-foundation) — the math prerequisites: Linear Algebra, Calculus, Probability & Statistics, Optimization, Information Theory, ODEs, Graph Theory, Numerical Methods
+- 📐 [first-principles-math-modeling](https://github.com/hien078/first-principles-math-modeling) — 15 modeling topics: dynamical systems, SIR epidemics, game theory, LP/IP/KKT optimization, simulation — 121 Colab-ready notebooks
 
 ---
 
